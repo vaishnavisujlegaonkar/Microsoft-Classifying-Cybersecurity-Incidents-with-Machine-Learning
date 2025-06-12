@@ -3,6 +3,7 @@
 
 
 **Project Overview**
+
 This project simulates a real-world data science scenario at Microsoft, where you're tasked with enhancing the effectiveness of Security Operation Centers (SOCs). The goal is to develop a machine learning classification model that can predict the triage grade of cybersecurity incidents using the comprehensive GUIDE dataset. The model classifies incidents as:
 
 True Positive (TP)
@@ -14,6 +15,7 @@ False Positive (FP)
 The resulting system is intended to support guided response tools in prioritizing and triaging security alerts.
 
 **Skills Gained**
+
 Data Preprocessing & Feature Engineering
 
 Machine Learning Classification (Logistic Regression, Decision Trees, Random Forest, XGBoost)
